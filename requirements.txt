@@ -1,0 +1,11 @@
+discord.py
+aiomysql
+mysql-connector-python
+aiohttp
+requests
+psutil
+python-dotenv
+pytz
+unidecode
+googletrans==4.0.0-rc1
+Pillow
